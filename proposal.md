@@ -52,7 +52,7 @@ PHYSICS 322, 3, F, PHYSICS 321, MATH 321 //multiple prereqs are extended at end 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+Input area for name, major, and desired credits per semester.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
