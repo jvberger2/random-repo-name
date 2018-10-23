@@ -40,7 +40,7 @@ Four Year Planner
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+Several possible schedules that satisfy the input conditions. The student can choose which option works best for them. Any options that the student doesn't specify can be used to generate more schedule options. For example, if the student does not have a preference of how many credits to take per semester, both an 8-semester and a 9-semester graduation schedule could be displayed.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
