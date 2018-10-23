@@ -44,7 +44,11 @@ Describe at a high level a program that could solve that problem.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+There are two inputs: the classes that a student must take to graduate, and various information about the student. Student input includes: previous courses taken, how many credits they prefer to take per semester, and how many semesters they have remaining. Every class has input information including: the number of credits, whether it is offered Fall/Spring, and any prerequisite courses.
 
+Input format could be a CSV table of class information:
+CS 400, 3, FS, CS 300
+PHYSICS 322, 3, F, PHYSICS 321, MATH 321 //multiple prereqs are extended at end of line
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
@@ -56,6 +60,7 @@ Describe at a high level a program that could solve that problem.
 
 Name each interface or class and briefly describe its function or purpose.
 
+Student, ClassNode, Graph, UIClass, and either a Path class or a Semester class
 
 ## Edit and Submit this file and any figures referenced by this document.
 
