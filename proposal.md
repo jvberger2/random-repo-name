@@ -56,7 +56,7 @@ PHYSICS 322, 3, F, PHYSICS 321, MATH 321 //multiple prereqs are extended at end 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-Input area for name, dropdown for major (from list of pre-defined ~ 5 majors), and desired credits per semester. After the user selects a major they will be prompted to add any classes they have previously taken, either via a list or with a button that allows them to select a .csv file with the course information.
+Input area for name, dropdown for major (from list of pre-defined ~ 5 majors), and desired credits per semester. After the user selects a major they will be prompted to add any classes they have previously taken, either via a list or with a button that allows them to select a .csv file with the course information. Once the user enters all of the information, there will be a button, which allows them to run it and provides them back a list of possible course paths.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
