@@ -56,6 +56,7 @@ Input area for name, major, and desired credits per semester.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+The main class of our program will start by taking inputs from the user such as their name, the major they are in, and their desired amount of credits per semester. The program will then form several graphs with different options of class paths that they may take to graduate with that major. The user can then select the path that works best for them.
 
 Name each interface or class and briefly describe its function or purpose.
 
