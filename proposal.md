@@ -57,10 +57,12 @@ Input area for name, major, and desired credits per semester.
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 
-
 Name each interface or class and briefly describe its function or purpose.
 
-Student, ClassNode, Graph, UIClass, and either a Path class or a Semester class
+The Student class will take all data given by the user on the prompt screen of the GUI and will be used in the scheduling algorithm to generate a four year plan.
+ClassNode will be used to store all data related to each class this includes all prereqs, the number of credits, and the times offered. The Graph will hold all of the ClassNodes and connect them to their prereqs and to the semesters they are offered in.
+Our UIClass will display the the fields to take in user data and then displaay the output from the algorithm.
+Finally we will use either a Path or a Semester class to hold the data calculated from the main planning algorithm to be displayed as output for the user.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
