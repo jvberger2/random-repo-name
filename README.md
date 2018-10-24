@@ -12,7 +12,7 @@
        * GitHub username 3: mwittwer1      name 3: Matthew Wittwer
        * GitHub username 4: luigman      name 4: Luis Guzman
    * When did you complete this exercise? 10/23
-   * How long did it take your team to complete this exercise? about an hour
+   * How long did it take your team to complete this exercise? about an hour and a half
 
 ## Table of Contents
 
