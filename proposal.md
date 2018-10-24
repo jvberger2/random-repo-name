@@ -33,6 +33,7 @@ Briefly describe a problem that your team would like to solve.
 Describe at a high level a program that could solve that problem.
 
 Choosing what classes to take each semester can be a daunting task. Even though many departments provide a four-year plan of study, class availability, change of major, and transfer credits can make it difficult to choose the best courses for a timely graduation. The Four Year Planner aims to solve this issue by providing a system for students to generate their own course schedules based off of their remaining required classes. The scheduler takes into account many user preferences and prior coursework, and multiple different schedule options for the user to consider.
+
 We propose using a directed graph as the main data structure of this program. The nodes are Classes, and the links are Prerequisites. Based off the relation between nodes, the program will determine all the possible paths for course progression.
 
 ## Questions to answer for Exercise #2
